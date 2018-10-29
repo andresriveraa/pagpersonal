@@ -1,0 +1,18 @@
+body{
+  font-family: 'Titillium Web', sans-serif;
+}
+a {
+  text-decoration: none;
+  text-decoration-style: solid;
+  /* font-family: "Titillium Web 300" */
+}
+ul li
+{
+  font-size: 30px;
+  display: inline-block;
+  margin: 10px;
+}
+.letter{
+  font-family: Titillium+Web: 600;
+  font-size: 5em;
+}
